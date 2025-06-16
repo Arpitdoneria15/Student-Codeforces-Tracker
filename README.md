@@ -2,7 +2,7 @@
 🔗 Live URL
 https://student-codeforces-tracker.vercel.app/
 
-🧠 About the Project
+# 🧠 About the Project
 This project is designed to track Codeforces users (students) in a structured dashboard-style interface. It fetches data using the Codeforces API and presents:
 
 User ratings & rank
@@ -76,6 +76,6 @@ Going to your DNS provider
 
 Adding an A or CNAME record pointing to your deployment
 
-📬 Contact
+# 📬 Contact
 Maintained by: Arpit Doneria
 💌 For issues or feature requests, open an issue on the GitHub repo.
